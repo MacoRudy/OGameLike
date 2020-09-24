@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGameLike", "OGameLike\OGameLike.csproj", "{49188865-978D-4B41-9CFC-8FF9A284A5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49188865-978D-4B41-9CFC-8FF9A284A5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49188865-978D-4B41-9CFC-8FF9A284A5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49188865-978D-4B41-9CFC-8FF9A284A5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49188865-978D-4B41-9CFC-8FF9A284A5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {993637D1-652E-4BBA-8807-FE23C7C2EB6D}
+	EndGlobalSection
+EndGlobal
